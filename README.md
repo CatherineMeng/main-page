@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Yuan Meng's Homepage
 
-You can use the [editor on GitHub](https://github.com/CatherineMeng/new-page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Ph.D student in Computer Engineering at University of Southern California under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). I am working in the [FPGA/PARALLEL COMPUTING LAB](https://fpga.usc.edu/).
+
+
 
 ### Markdown
 
