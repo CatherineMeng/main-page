@@ -1,5 +1,3 @@
-# Welcome to Yuan Meng's Homepage
-
 ## About me
 
 I am a Ph.D student in Computer Engineering at University of Southern California under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). I am working in the [FPGA/PARALLEL COMPUTING LAB](https://fpga.usc.edu/).
