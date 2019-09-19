@@ -8,10 +8,10 @@ I am a Ph.D student in Computer Engineering at University of Southern California
 
 ### Education
 
-##Aug 2019 - Present:
+## Aug 2019 - Present:
 Ph.D. Student in Computer Engineering, University of Southern California.
 
-##Aug 2015 - May 2019:
+## Aug 2015 - May 2019:
 Bachelor of Science, Electrical Engineering - Computer and Systems Engineering, Rensselaer Polytechnic Institute.
 
 markdown
