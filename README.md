@@ -1,18 +1,20 @@
-## Welcome to Yuan Meng's Homepage
+# Welcome to Yuan Meng's Homepage
 
-### About me
+## About me
 
 I am a Ph.D student in Computer Engineering at University of Southern California under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). I am working in the [FPGA/PARALLEL COMPUTING LAB](https://fpga.usc.edu/).
 
 
 
-### Education
+## Education
 
-## Aug 2019 - Present:
-Ph.D. Student in Computer Engineering, University of Southern California.
+### Aug 2019 - Present:
+- Ph.D. Student in Computer Engineering 
+- University of Southern California.
 
-## Aug 2015 - May 2019:
-Bachelor of Science, Electrical Engineering - Computer and Systems Engineering, Rensselaer Polytechnic Institute.
+### Aug 2015 - May 2019:
+- Bachelor of Science, Electrical Engineering - Computer and Systems Engineering 
+- Rensselaer Polytechnic Institute.
 
 markdown
 Syntax highlighted code block
