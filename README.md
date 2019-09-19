@@ -6,11 +6,15 @@ I am a Ph.D student in Computer Engineering at University of Southern California
 
 
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Aug 2019 - Present:
+Ph.D. Student in Computer Engineering, University of Southern California.
 
-```markdown
+##Aug 2015 - May 2019:
+Bachelor of Science, Electrical Engineering - Computer and Systems Engineering, Rensselaer Polytechnic Institute.
+
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -26,7 +30,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
