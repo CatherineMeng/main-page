@@ -1,6 +1,6 @@
 ## About me
 
-I am a Ph.D student in Computer Engineering at University of Southern California under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). I am working in the [FPGA/PARALLEL COMPUTING LAB](https://fpga.usc.edu/).
+I am a Ph.D student in Computer Engineering at University of Southern California under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). 
 
 My research interest is accelerating computationally intensive algorithms on various heterogeneous platform. I am currently working on accelerating AI learning algorithms on FPGA.
 
