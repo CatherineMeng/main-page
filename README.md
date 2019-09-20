@@ -35,5 +35,6 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 
 * Electronics Engineer, Hasbro. Inc
 
-## Awards and Honors
-* 
+
+## Links
+[My Github](https://github.com/CatherineMeng)
