@@ -39,5 +39,5 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 
 
 ## Links
-[My Github](https://github.com/CatherineMeng)
+[My Github](https://github.com/CatherineMeng)<br/>
 [My Linkedin](https://www.linkedin.com/in/yuan-meng-682414137/)
