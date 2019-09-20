@@ -10,17 +10,16 @@ My research interest is accelerating computationally intensive algorithms on var
 
 ### Aug 2019 - Present:
 *University of Southern California*
-
 Ph.D. Student in Computer Engineering 
 
 
 ### Aug 2015 - May 2019:
 *Rensselaer Polytechnic Institute*
-
 Bachelor of Science, Electrical Engineering - Computer and Systems Engineering 
 
 
 ## Research
+
 * Accelerating Table based Q learning on FPGA
   * Advisor: Victor Prasanna, FPGA/Parallel Computing Group, University of Southern California
 
@@ -29,12 +28,16 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
   
 
 ## Work Experience
+
 * Undergraduate Teaching Assistant, Rensselaer Polytecnic Institute
   * Foundations of Computer Science
   * Laboratory Introduction to Embedded Control
 
 * Electronics Engineer, Hasbro. Inc
 
+* Technology Counselor, Emagination Computer Camps
+
 
 ## Links
 [My Github](https://github.com/CatherineMeng)
+[My Linkedin](https://www.linkedin.com/in/yuan-meng-682414137/)
