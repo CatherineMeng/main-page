@@ -22,7 +22,7 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 
 ## Research
 * Accelerating Table based Q learning on FPGA
-  * Advisor: Victor Prasanna
+  * Advisor: Victor Prasanna, FPGA/Parallel Computing Group, University of Southern California
 
 * Mesh adaptation on FPGA
   * Advisor: Mark Shephard, Scientific Computation Research Center, Rensselaer Polytechinic Institute
