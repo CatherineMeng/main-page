@@ -9,12 +9,12 @@ My research interest is accelerating computationally intensive algorithms on var
 ## Education
 
 ### Aug 2019 - Present:
-*University of Southern California*
+*University of Southern California* <br/>
 Ph.D. Student in Computer Engineering 
 
 
 ### Aug 2015 - May 2019:
-*Rensselaer Polytechnic Institute*
+*Rensselaer Polytechnic Institute* <br/>
 Bachelor of Science, Electrical Engineering - Computer and Systems Engineering 
 
 
