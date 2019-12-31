@@ -2,7 +2,7 @@
 
 I am a Ph.D student in Computer Engineering at University of Southern California under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). 
 
-My research interest is accelerating computationally intensive algorithms on various heterogeneous platform. I am currently working on accelerating AI learning algorithms on FPGA.
+My research interest is accelerating computationally intensive algorithms on various computing platforms. I am currently working on accelerating reinforcement learning algorithms on FPGA.
 
 
 
@@ -19,6 +19,8 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 
 
 ## Research
+* Accelerating Proximal Policy Optimization on CPU-FPGA heterogeneous platforms
+  * Advisor: Victor Prasanna, FPGA/Parallel Computing Group, University of Southern California
 
 * Accelerating Table based Q learning on FPGA
   * Advisor: Victor Prasanna, FPGA/Parallel Computing Group, University of Southern California
@@ -33,7 +35,7 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
   * Foundations of Computer Science
   * Laboratory Introduction to Embedded Control
 
-* Electronics Engineer, Hasbro. Inc
+* Electronics Engineer Co-op, Hasbro. Inc
 
 * Technology Counselor, Emagination Computer Camps
 
