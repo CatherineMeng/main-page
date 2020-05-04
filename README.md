@@ -21,7 +21,7 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 ## Research & Publications
 * Accelerating Proximal Policy Optimization on CPU-FPGA heterogeneous platforms
   * Advisor: Viktor Prasanna, FPGA/Parallel Computing Group, University of Southern California
-  * Accepted as a **full paper** in the 28th IEEE Symposium on Field-Programmable Custom Computing Machines [(**FCCM 2020**)](https://www.fccm.org/home/program/)
+  * Accepted as a **full paper** in the 28th IEEE Symposium on Field-Programmable Custom Computing Machines [(**FCCM 2020**)](https://www.fccm.org/home/program/) (Acceptance Rate 20.6%)
 
 * Accelerating Table based Q learning on FPGA
   * Advisor: Viktor Prasanna, FPGA/Parallel Computing Group, University of Southern California
