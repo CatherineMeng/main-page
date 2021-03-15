@@ -4,6 +4,7 @@ I am a Ph.D student in Computer Engineering at University of Southern California
 
 My research interest is accelerating computationally intensive algorithms on various computing platforms. I am currently working on accelerating Deep Reinforcement Learning algorithms on FPGA.
 
+Contact me via email [ymeng643@usc.edu]
 
 
 ## Education
