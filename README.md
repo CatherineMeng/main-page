@@ -20,6 +20,13 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 
 
 ## Research & Publications
+
+* DYNAMAP: Dynamic Algorithm Mapping Framework for Low Latency CNN Inference
+  * Accepted as a **full paper** in the 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays [(**FPGA 2021**)](https://dl.acm.org/doi/abs/10.1145/3431920.3439286)
+
+* How to Efficiently Train Your AI Agent? Characterizing and Evaluating Deep Reinforcement Learning on Heterogeneous Platforms
+  * Accepted as a **Student Best Paper Award** in the 2020 IEEE High Performance Extreme Computing Conference [(**HPEC 2020**)](https://ieeexplore.ieee.org/abstract/document/9286150/)
+
 * Accelerating Proximal Policy Optimization on CPU-FPGA heterogeneous platforms
   * Accepted as a **full paper** in the 28th IEEE Symposium on Field-Programmable Custom Computing Machines [(**FCCM 2020**)](https://www.fccm.org/home/program/) (Acceptance Rate 20.6%)
 
