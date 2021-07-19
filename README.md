@@ -21,7 +21,7 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 
 ## Research & Publications
 
-* FGYM: Toolkit for Benchmarking FPGA based Reinforcement Learning Algorithms (Co-First Author)
+* FGYM: Toolkit for Benchmarking FPGA based Reinforcement Learning Algorithms (Second Author)
   * Accepted as a **Demo Night Presentation** in the 2021 Field-Programmable Logic and Applications [(FPL 2021)](https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021)
   * [**Code**](https://github.com/CatherineMeng/FGYM-user-demo) | [**Abstract**]()
 
