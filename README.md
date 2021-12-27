@@ -35,6 +35,9 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 * How to Efficiently Train Your AI Agent? Characterizing and Evaluating Deep Reinforcement Learning on Heterogeneous Platforms (First Author)
   * Accepted as a **Outstanding Student Paper Award** in the 2020 IEEE High Performance Extreme Computing Conference [(HPEC 2020)](https://ieeexplore.ieee.org/abstract/document/9286150/)
 
+* PPOAccel: A High-Throughput Acceleration Framework for Proximal Policy Optimization (First Author)
+  * Published in the journal proceeding of Transactions on Parallel and Distributed Systems
+
 * Accelerating Proximal Policy Optimization on CPU-FPGA heterogeneous platforms (First Author)
   * Accepted as a **full paper** in the 28th IEEE Symposium on Field-Programmable Custom Computing Machines [(FCCM 2020)](https://www.fccm.org/home/program/)
 
