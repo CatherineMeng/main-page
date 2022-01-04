@@ -49,6 +49,10 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
   
 
 ## Work Experience
+* Graduate Teaching Assistant, University of Souuthern California
+  * Parallel and Distributed Computing
+  * Accelerated Computing using FPGAs
+  * Parallel Programming
 
 * Undergraduate Teaching Assistant, Rensselaer Polytecnic Institute
   * Foundations of Computer Science
