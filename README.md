@@ -21,7 +21,7 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 
 ## Research & Publications
 
-* How to Avoid Zero-Spacing in Fractionally-Strided Convolution? A Hardware-Algorithm Co-Design Methodology
+* How to Avoid Zero-Spacing in Fractionally-Strided Convolution? A Hardware-Algorithm Co-Design Methodology (First Author)
   * Accepted as a **full paper** in the 28th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics. [(HiPC 2021)](https://hipc.org/)
   * [**Code**](https://github.com/CatherineMeng/FPFSC-FPGA-Accelerated-Frationally-Strided-Convolution) | [**Paper**]()
 
@@ -36,7 +36,7 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
   * Accepted as a **Outstanding Student Paper Award** in the 2020 IEEE High Performance Extreme Computing Conference [(HPEC 2020)](https://ieeexplore.ieee.org/abstract/document/9286150/)
 
 * PPOAccel: A High-Throughput Acceleration Framework for Proximal Policy Optimization (First Author)
-  * Published in the journal proceeding of Transactions on Parallel and Distributed Systems
+  * Published in the journal proceeding of Transactions on Parallel and Distributed Systems [(TPDS)](https://ieeexplore.ieee.org/abstract/document/9647962)
 
 * Accelerating Proximal Policy Optimization on CPU-FPGA heterogeneous platforms (First Author)
   * Accepted as a **full paper** in the 28th IEEE Symposium on Field-Programmable Custom Computing Machines [(FCCM 2020)](https://www.fccm.org/home/program/)
