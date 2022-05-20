@@ -21,9 +21,12 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 
 ## Research & Publications
 
+* FPGA Acceleration of Deep Reinforcement Learning using On-Chip Replay Management
+  * Accepted as a **full paper** and received the **Best Paper Award** in the 19th ACM International Conference on Computing Frontiers [(CF 2022)](https://www.computingfrontiers.org/2022/)
+  * [**Code**](https://github.com/CatherineMeng/Hetero_RL) | [**Paper**](https://drive.google.com/file/d/1GOy_ehtrjD5hzoOI2Pr-hoSv7vl1zeUA/view?usp=sharing)
 * How to Avoid Zero-Spacing in Fractionally-Strided Convolution? A Hardware-Algorithm Co-Design Methodology (First Author)
-  * Accepted as a **full paper** and received the **Best Paper Award** in the 28th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics. [(HiPC 2021)](https://hipc.org/)
-  * [**Code**](https://github.com/CatherineMeng/FPFSC-FPGA-Accelerated-Frationally-Strided-Convolution) | [**Paper**]()
+  * Accepted as a **full paper** in the 28th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics. [(HiPC 2021)](https://hipc.org/)
+  * [**Code**](https://github.com/CatherineMeng/FPFSC-FPGA-Accelerated-Frationally-Strided-Convolution) | [**Paper**](https://drive.google.com/file/d/1o2R5zsX06LfPq9SeeZmYbJ-Hqh1IHSsj/view?usp=sharing)
 
 * FGYM: Toolkit for Benchmarking FPGA based Reinforcement Learning Algorithms (Second Author)
   * Accepted as a **Demo Night Presentation** in the 2021 Field-Programmable Logic and Applications [(FPL 2021)](https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021)
