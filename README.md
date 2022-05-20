@@ -22,7 +22,7 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 ## Research & Publications
 
 * How to Avoid Zero-Spacing in Fractionally-Strided Convolution? A Hardware-Algorithm Co-Design Methodology (First Author)
-  * Accepted as a **full paper** in the 28th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics. [(HiPC 2021)](https://hipc.org/)
+  * Accepted as a **full paper** and received the **Best Paper Award** in the 28th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics. [(HiPC 2021)](https://hipc.org/)
   * [**Code**](https://github.com/CatherineMeng/FPFSC-FPGA-Accelerated-Frationally-Strided-Convolution) | [**Paper**]()
 
 * FGYM: Toolkit for Benchmarking FPGA based Reinforcement Learning Algorithms (Second Author)
