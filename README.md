@@ -8,19 +8,21 @@ Contact me via email [ymeng643@usc.edu]
 
 
 ## Education
-
 ### Aug 2019 - Present:
 *University of Southern California* <br/>
 Ph.D. Student in Computer Engineering 
-
-
 ### Aug 2015 - May 2019:
 *Rensselaer Polytechnic Institute* <br/>
 Bachelor of Science, Electrical Engineering - Computer and Systems Engineering 
 
+## News
+*I am selected as one of the finalists of the Ming Hsieh Ph.D. Scholar! - September 2022* <br/>
 
 ## Research & Publications
 
+* Accelerating Monte-Carlo Tree Search on CPU-FPGA Heterogeneous Platform
+  * Accepted as a **full paper** in the 32rd International Conference on Field-Programmable Logic and Applications [(FPL 22)](https://fpl.org/agenda/)
+  * [**Code**](https://github.com/CatherineMeng/FPGA-Accelerated-MCTS) | [**Paper**](https://arxiv.org/abs/2208.11208)
 * FPGA Acceleration of Deep Reinforcement Learning using On-Chip Replay Management
   * Accepted as a **full paper** and received the **Best Paper Award** in the 19th ACM International Conference on Computing Frontiers [(CF 2022)](https://www.computingfrontiers.org/2022/)
   * [**Code**](https://github.com/CatherineMeng/Hetero_RL) | [**Paper**](https://drive.google.com/file/d/1GOy_ehtrjD5hzoOI2Pr-hoSv7vl1zeUA/view?usp=sharing)
