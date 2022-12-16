@@ -16,6 +16,7 @@ Ph.D. Student in Computer Engineering
 Bachelor of Science, Electrical Engineering - Computer and Systems Engineering 
 
 ## News
+*I am serving as the proceeding chair for [HiPC 2022](https://hipc.org/).* <br/>
 *I am selected as one of the finalists of the Ming Hsieh Ph.D. Scholar! - September 2022* <br/>
 
 ## Research & Publications
