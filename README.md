@@ -16,7 +16,7 @@ Ph.D. Student in Computer Engineering
 Bachelor of Science, Electrical Engineering - Computer and Systems Engineering 
 
 ## News
-*🔘 I am serving as the Publications Chair for [FCCM 2023](https://www.fccm.org/). - January 2023* <br/>
+*🔘 I am serving as the Publications Chair for [FCCM 2023](https://www.fccm.org/). - January-April 2023* <br/>
 *🔘 My paper on Dynamic Tree Management for Monte-Carlo Tree Search Acceleration is accepted to the FPGA 2023 conference! - February 2023* <br/>
 *🔘 I am serving as the Proceedings Chair for [HiPC 2022](https://hipc.org/). - October-December 2022* <br/>
 *🔘 I am selected as one of the finalists of the Ming Hsieh Ph.D. Scholar! - September 2022* <br/>
