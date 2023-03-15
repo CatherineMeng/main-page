@@ -2,7 +2,7 @@
 
 I am a Ph.D candidate in Computer Engineering at University of Southern California under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). 
 
-My research interest is accelerating computationally intensive algorithms on various computing platforms. I am currently working on accelerating Deep Reinforcement Learning algorithms on FPGA.
+My research interest is accelerating computationally intensive algorithms on heterogeneous computing platforms. I am currently working on accelerating Deep Reinforcement Learning algorithms on shared-memory, data parallel architecture (CPU, GPU) and spatial architecture (FPGA).
 
 Contact me via email [ymeng643@usc.edu]
 
