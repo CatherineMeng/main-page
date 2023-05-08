@@ -20,9 +20,9 @@ Bachelor of Science, Electrical Engineering - Computer and Systems Engineering
 *🔘 My paper on Dynamic Tree Management for Monte-Carlo Tree Search Acceleration is accepted to the FPGA 2023 conference! - February 2023* <br/>
 *🔘 I am serving as the Proceedings Chair for [HiPC 2022](https://hipc.org/). - October-December 2022* <br/>
 *🔘 I am selected as one of the finalists of the Ming Hsieh Ph.D. Scholar! - September 2022* <br/>
-*🔘 Our paper "FPGA Acceleration of Deep Reinforcement Learning using On-Chip Replay Management" received Best Paper Award in the 2022 ACM International Conference on Computing Frontiers. - May 2022* <br/>
-*🔘 Our paper "PPOAccel: A High-Throughput Acceleration Framework for Proximal Policy Optimization" has been accepted for publication in the proceedings of the IEEE Transactions on Parallel and Distributed Systems. - 2021* <br/>
-*🔘 Our paper "How to efficiently train your ai agent? characterizing and evaluating deep reinforcement learning on heterogeneous platforms" received Outstanding Student Paper Award in the 2020 IEEE High Performance Extreme Computing Virtual Conference (HPEC). - October 2020* <br/>
+*🔘 Our paper "[FPGA Acceleration of Deep Reinforcement Learning using On-Chip Replay Management](https://drive.google.com/file/d/1GOy_ehtrjD5hzoOI2Pr-hoSv7vl1zeUA/view)" received Best Paper Award in the 2022 ACM International Conference on Computing Frontiers. - May 2022* <br/>
+*🔘 Our paper "[PPOAccel: A High-Throughput Acceleration Framework for Proximal Policy Optimization](https://drive.google.com/file/d/1nIggaAom2gjh76Rftho-7z3EChoi43nM/view)" has been accepted for publication in the proceedings of the IEEE Transactions on Parallel and Distributed Systems. - 2021* <br/>
+*🔘 Our paper "[How to efficiently train your ai agent? characterizing and evaluating deep reinforcement learning on heterogeneous platforms](https://drive.google.com/file/d/13DJXKtB1pHR6HlCx6_aBl-1i7c55esiQ/view)" received Outstanding Student Paper Award in the 2020 IEEE High Performance Extreme Computing Virtual Conference (HPEC). - October 2020* <br/>
 
 ## Research & Publications
 
